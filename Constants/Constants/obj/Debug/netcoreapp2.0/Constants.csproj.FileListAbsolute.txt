@@ -1,0 +1,10 @@
+D:\programming\c#\Constants\Constants\bin\Debug\netcoreapp2.0\Constants.deps.json
+D:\programming\c#\Constants\Constants\bin\Debug\netcoreapp2.0\Constants.runtimeconfig.json
+D:\programming\c#\Constants\Constants\bin\Debug\netcoreapp2.0\Constants.runtimeconfig.dev.json
+D:\programming\c#\Constants\Constants\bin\Debug\netcoreapp2.0\Constants.dll
+D:\programming\c#\Constants\Constants\bin\Debug\netcoreapp2.0\Constants.pdb
+D:\programming\c#\Constants\Constants\obj\Debug\netcoreapp2.0\Constants.csproj.CoreCompileInputs.cache
+D:\programming\c#\Constants\Constants\obj\Debug\netcoreapp2.0\Constants.AssemblyInfoInputs.cache
+D:\programming\c#\Constants\Constants\obj\Debug\netcoreapp2.0\Constants.AssemblyInfo.cs
+D:\programming\c#\Constants\Constants\obj\Debug\netcoreapp2.0\Constants.dll
+D:\programming\c#\Constants\Constants\obj\Debug\netcoreapp2.0\Constants.pdb

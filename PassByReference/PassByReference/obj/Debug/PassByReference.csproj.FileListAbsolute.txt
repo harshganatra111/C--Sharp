@@ -1,0 +1,6 @@
+G:\FROM SEAGATE\c#\PassByReference\PassByReference\obj\Debug\PassByReference.csproj.CoreCompileInputs.cache
+G:\FROM SEAGATE\c#\PassByReference\PassByReference\bin\Debug\PassByReference.exe.config
+G:\FROM SEAGATE\c#\PassByReference\PassByReference\bin\Debug\PassByReference.exe
+G:\FROM SEAGATE\c#\PassByReference\PassByReference\bin\Debug\PassByReference.pdb
+G:\FROM SEAGATE\c#\PassByReference\PassByReference\obj\Debug\PassByReference.exe
+G:\FROM SEAGATE\c#\PassByReference\PassByReference\obj\Debug\PassByReference.pdb

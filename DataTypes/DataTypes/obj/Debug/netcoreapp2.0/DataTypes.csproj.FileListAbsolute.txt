@@ -1,0 +1,11 @@
+D:\programming\c#\DataTypes\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.deps.json
+D:\programming\c#\DataTypes\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.runtimeconfig.json
+D:\programming\c#\DataTypes\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.runtimeconfig.dev.json
+D:\programming\c#\DataTypes\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.dll
+D:\programming\c#\DataTypes\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.pdb
+D:\programming\c#\DataTypes\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.csprojAssemblyReference.cache
+D:\programming\c#\DataTypes\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.csproj.CoreCompileInputs.cache
+D:\programming\c#\DataTypes\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.AssemblyInfoInputs.cache
+D:\programming\c#\DataTypes\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.AssemblyInfo.cs
+D:\programming\c#\DataTypes\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.dll
+D:\programming\c#\DataTypes\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.pdb

@@ -1,0 +1,11 @@
+D:\programming\c#\Operators\Operators\bin\Debug\netcoreapp2.0\Operators.deps.json
+D:\programming\c#\Operators\Operators\bin\Debug\netcoreapp2.0\Operators.runtimeconfig.json
+D:\programming\c#\Operators\Operators\bin\Debug\netcoreapp2.0\Operators.runtimeconfig.dev.json
+D:\programming\c#\Operators\Operators\bin\Debug\netcoreapp2.0\Operators.dll
+D:\programming\c#\Operators\Operators\bin\Debug\netcoreapp2.0\Operators.pdb
+D:\programming\c#\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.csprojAssemblyReference.cache
+D:\programming\c#\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.csproj.CoreCompileInputs.cache
+D:\programming\c#\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.AssemblyInfoInputs.cache
+D:\programming\c#\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.AssemblyInfo.cs
+D:\programming\c#\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.dll
+D:\programming\c#\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.pdb

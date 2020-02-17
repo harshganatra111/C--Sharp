@@ -1,0 +1,6 @@
+G:\FROM SEAGATE\c#\PassongParametersAndReturningValues\PassongParametersAndReturningValues\obj\Debug\PassongParametersAndReturningValues.csproj.CoreCompileInputs.cache
+G:\FROM SEAGATE\c#\PassongParametersAndReturningValues\PassongParametersAndReturningValues\bin\Debug\PassongParametersAndReturningValues.exe.config
+G:\FROM SEAGATE\c#\PassongParametersAndReturningValues\PassongParametersAndReturningValues\bin\Debug\PassongParametersAndReturningValues.exe
+G:\FROM SEAGATE\c#\PassongParametersAndReturningValues\PassongParametersAndReturningValues\bin\Debug\PassongParametersAndReturningValues.pdb
+G:\FROM SEAGATE\c#\PassongParametersAndReturningValues\PassongParametersAndReturningValues\obj\Debug\PassongParametersAndReturningValues.exe
+G:\FROM SEAGATE\c#\PassongParametersAndReturningValues\PassongParametersAndReturningValues\obj\Debug\PassongParametersAndReturningValues.pdb

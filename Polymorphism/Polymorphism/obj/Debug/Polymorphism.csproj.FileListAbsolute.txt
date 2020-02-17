@@ -1,0 +1,2 @@
+G:\FROM SEAGATE\c#\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csprojResolveAssemblyReference.cache
+G:\FROM SEAGATE\c#\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache

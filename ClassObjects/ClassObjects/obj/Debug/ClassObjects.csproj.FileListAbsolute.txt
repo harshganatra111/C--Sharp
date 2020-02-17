@@ -1,0 +1,6 @@
+G:\FROM SEAGATE\c#\ClassObjects\ClassObjects\obj\Debug\ClassObjects.csproj.CoreCompileInputs.cache
+G:\FROM SEAGATE\c#\ClassObjects\ClassObjects\bin\Debug\ClassObjects.exe.config
+G:\FROM SEAGATE\c#\ClassObjects\ClassObjects\bin\Debug\ClassObjects.exe
+G:\FROM SEAGATE\c#\ClassObjects\ClassObjects\bin\Debug\ClassObjects.pdb
+G:\FROM SEAGATE\c#\ClassObjects\ClassObjects\obj\Debug\ClassObjects.exe
+G:\FROM SEAGATE\c#\ClassObjects\ClassObjects\obj\Debug\ClassObjects.pdb

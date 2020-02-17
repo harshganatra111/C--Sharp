@@ -1,0 +1,7 @@
+G:\FROM SEAGATE\c#\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+G:\FROM SEAGATE\c#\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+G:\FROM SEAGATE\c#\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+G:\FROM SEAGATE\c#\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+G:\FROM SEAGATE\c#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+G:\FROM SEAGATE\c#\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+G:\FROM SEAGATE\c#\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

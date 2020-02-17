@@ -1,0 +1,11 @@
+D:\programming\c#\MethodReturn\MethodReturn\bin\Debug\netcoreapp2.0\MethodReturn.deps.json
+D:\programming\c#\MethodReturn\MethodReturn\bin\Debug\netcoreapp2.0\MethodReturn.runtimeconfig.json
+D:\programming\c#\MethodReturn\MethodReturn\bin\Debug\netcoreapp2.0\MethodReturn.runtimeconfig.dev.json
+D:\programming\c#\MethodReturn\MethodReturn\bin\Debug\netcoreapp2.0\MethodReturn.dll
+D:\programming\c#\MethodReturn\MethodReturn\bin\Debug\netcoreapp2.0\MethodReturn.pdb
+D:\programming\c#\MethodReturn\MethodReturn\obj\Debug\netcoreapp2.0\MethodReturn.csprojAssemblyReference.cache
+D:\programming\c#\MethodReturn\MethodReturn\obj\Debug\netcoreapp2.0\MethodReturn.csproj.CoreCompileInputs.cache
+D:\programming\c#\MethodReturn\MethodReturn\obj\Debug\netcoreapp2.0\MethodReturn.AssemblyInfoInputs.cache
+D:\programming\c#\MethodReturn\MethodReturn\obj\Debug\netcoreapp2.0\MethodReturn.AssemblyInfo.cs
+D:\programming\c#\MethodReturn\MethodReturn\obj\Debug\netcoreapp2.0\MethodReturn.dll
+D:\programming\c#\MethodReturn\MethodReturn\obj\Debug\netcoreapp2.0\MethodReturn.pdb

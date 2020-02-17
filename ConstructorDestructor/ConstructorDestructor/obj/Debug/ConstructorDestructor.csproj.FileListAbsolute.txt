@@ -1,0 +1,7 @@
+G:\FROM SEAGATE\c#\ConstructorDestructor\ConstructorDestructor\bin\Debug\ConstructorDestructor.exe.config
+G:\FROM SEAGATE\c#\ConstructorDestructor\ConstructorDestructor\bin\Debug\ConstructorDestructor.exe
+G:\FROM SEAGATE\c#\ConstructorDestructor\ConstructorDestructor\bin\Debug\ConstructorDestructor.pdb
+G:\FROM SEAGATE\c#\ConstructorDestructor\ConstructorDestructor\obj\Debug\ConstructorDestructor.csproj.CoreCompileInputs.cache
+G:\FROM SEAGATE\c#\ConstructorDestructor\ConstructorDestructor\obj\Debug\ConstructorDestructor.exe
+G:\FROM SEAGATE\c#\ConstructorDestructor\ConstructorDestructor\obj\Debug\ConstructorDestructor.pdb
+G:\FROM SEAGATE\c#\ConstructorDestructor\ConstructorDestructor\obj\Debug\ConstructorDestructor.csprojResolveAssemblyReference.cache

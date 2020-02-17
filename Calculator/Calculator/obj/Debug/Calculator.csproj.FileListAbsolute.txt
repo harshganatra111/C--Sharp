@@ -1,0 +1,10 @@
+G:\FROM SEAGATE\c#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+G:\FROM SEAGATE\c#\Calculator\Calculator\bin\Debug\Calculator.exe
+G:\FROM SEAGATE\c#\Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\FROM SEAGATE\c#\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+G:\FROM SEAGATE\c#\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+G:\FROM SEAGATE\c#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+G:\FROM SEAGATE\c#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+G:\FROM SEAGATE\c#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+G:\FROM SEAGATE\c#\Calculator\Calculator\obj\Debug\Calculator.exe
+G:\FROM SEAGATE\c#\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,6 @@
+G:\FROM SEAGATE\c#\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+G:\FROM SEAGATE\c#\Properties\Properties\bin\Debug\Properties.exe.config
+G:\FROM SEAGATE\c#\Properties\Properties\bin\Debug\Properties.exe
+G:\FROM SEAGATE\c#\Properties\Properties\bin\Debug\Properties.pdb
+G:\FROM SEAGATE\c#\Properties\Properties\obj\Debug\Properties.exe
+G:\FROM SEAGATE\c#\Properties\Properties\obj\Debug\Properties.pdb

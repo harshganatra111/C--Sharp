@@ -1,0 +1,10 @@
+D:\programming\c#\Loops\Loops\bin\Debug\netcoreapp2.0\Loops.deps.json
+D:\programming\c#\Loops\Loops\bin\Debug\netcoreapp2.0\Loops.runtimeconfig.json
+D:\programming\c#\Loops\Loops\bin\Debug\netcoreapp2.0\Loops.runtimeconfig.dev.json
+D:\programming\c#\Loops\Loops\bin\Debug\netcoreapp2.0\Loops.dll
+D:\programming\c#\Loops\Loops\bin\Debug\netcoreapp2.0\Loops.pdb
+D:\programming\c#\Loops\Loops\obj\Debug\netcoreapp2.0\Loops.csproj.CoreCompileInputs.cache
+D:\programming\c#\Loops\Loops\obj\Debug\netcoreapp2.0\Loops.AssemblyInfoInputs.cache
+D:\programming\c#\Loops\Loops\obj\Debug\netcoreapp2.0\Loops.AssemblyInfo.cs
+D:\programming\c#\Loops\Loops\obj\Debug\netcoreapp2.0\Loops.dll
+D:\programming\c#\Loops\Loops\obj\Debug\netcoreapp2.0\Loops.pdb

@@ -1,0 +1,7 @@
+G:\FROM SEAGATE\c#\GetterSetter\GetterSetter\bin\Debug\GetterSetter.exe.config
+G:\FROM SEAGATE\c#\GetterSetter\GetterSetter\bin\Debug\GetterSetter.exe
+G:\FROM SEAGATE\c#\GetterSetter\GetterSetter\bin\Debug\GetterSetter.pdb
+G:\FROM SEAGATE\c#\GetterSetter\GetterSetter\obj\Debug\GetterSetter.csprojResolveAssemblyReference.cache
+G:\FROM SEAGATE\c#\GetterSetter\GetterSetter\obj\Debug\GetterSetter.csproj.CoreCompileInputs.cache
+G:\FROM SEAGATE\c#\GetterSetter\GetterSetter\obj\Debug\GetterSetter.exe
+G:\FROM SEAGATE\c#\GetterSetter\GetterSetter\obj\Debug\GetterSetter.pdb

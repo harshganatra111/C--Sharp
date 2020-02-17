@@ -1,0 +1,11 @@
+D:\programming\c#\EnhancedIF\EnhancedIF\bin\Debug\netcoreapp2.0\EnhancedIF.deps.json
+D:\programming\c#\EnhancedIF\EnhancedIF\bin\Debug\netcoreapp2.0\EnhancedIF.runtimeconfig.json
+D:\programming\c#\EnhancedIF\EnhancedIF\bin\Debug\netcoreapp2.0\EnhancedIF.runtimeconfig.dev.json
+D:\programming\c#\EnhancedIF\EnhancedIF\bin\Debug\netcoreapp2.0\EnhancedIF.dll
+D:\programming\c#\EnhancedIF\EnhancedIF\bin\Debug\netcoreapp2.0\EnhancedIF.pdb
+D:\programming\c#\EnhancedIF\EnhancedIF\obj\Debug\netcoreapp2.0\EnhancedIF.csprojAssemblyReference.cache
+D:\programming\c#\EnhancedIF\EnhancedIF\obj\Debug\netcoreapp2.0\EnhancedIF.csproj.CoreCompileInputs.cache
+D:\programming\c#\EnhancedIF\EnhancedIF\obj\Debug\netcoreapp2.0\EnhancedIF.AssemblyInfoInputs.cache
+D:\programming\c#\EnhancedIF\EnhancedIF\obj\Debug\netcoreapp2.0\EnhancedIF.AssemblyInfo.cs
+D:\programming\c#\EnhancedIF\EnhancedIF\obj\Debug\netcoreapp2.0\EnhancedIF.dll
+D:\programming\c#\EnhancedIF\EnhancedIF\obj\Debug\netcoreapp2.0\EnhancedIF.pdb
